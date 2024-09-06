@@ -14,3 +14,4 @@ Sales price trends over time.
 Analysis of average price and mileage by fuel type and transmission.
 Volume of used cars by dealer and ownership types.
 Correlation between pricing factors and forecasting future trends.
+
